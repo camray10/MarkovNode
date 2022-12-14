@@ -58,5 +58,3 @@ module.exports = {
   MarkovMachine,
 };
 
-
-console.log('hi');
